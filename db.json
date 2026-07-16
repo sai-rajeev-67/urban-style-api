@@ -647,7 +647,33 @@
   "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
 }
   ],
-  "categories": [],
+  "categories": [
+    {
+  "categories": [
+    {
+      "id": 1,
+      "name": "Men"
+    },
+    {
+      "id": 2,
+      "name": "Women"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    },
+    {
+      "id": 4,
+      "name": "Footwear"
+    },
+    {
+      "id": 5,
+      "name": "Accessories"
+    }
+  ]
+}
+  ],
+
   "cart": [],
   "wishlist": [],
   "orders": [
